@@ -8,7 +8,9 @@ Notebook Overview
     Visualizations: The notebook includes various visualizations to aid in the interpretation of the data and to present findings in an accessible format.
 
 Link to Data
+
     Since the data files are very large in size, you can download it from "https://app.datacamp.com/workspace/w/79085988-ab3c-46d9-aa8a-56487b1463a2/edit"
+    
 Objectives
 
     To provide a data-driven understanding of crime trends in Los Angeles.
